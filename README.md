@@ -1,2 +1,2 @@
-# odin_recipies
+# odin_recipes
 Basic html webpage practice
